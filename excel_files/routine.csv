@@ -1,0 +1,7 @@
+faculty,semester,date_1,sub_1,date_2,sub_2,date_3,sub_3,date_4,subject_4,date_5,subject_5,date_6,subject_6,date_7,subject_7
+computer,1,6-Jun,EDC,12-Jun,C++,18-Jun,DSA,22-Jun,Applied mechanics,25-Jun,ISD,30-Jun,AAD,-,-
+civil,1,6-Jun,building material,12-Jun,hydrology,18-Jun,fluid mechnacis,22-Jun,C-programming,25-Jun,English,30-Jun,survey,5-Jul,field visit
+architecture,1,6-Jun,Applied,13-Jun,modern desigh,19-Jun,chinese architecture,,,,,,,,
+computer,2,7-Jun,DBMS,14-Jun,NM,21-Jun,OS,,,,,,,,
+civil,2,7-Jun,statics,14-Jun,dynamics,21-Jun,sociology,,,,,,,,
+architecture,2,7-Jun,dynamics,14-Jun,c++,21-Jun,photography,,,,,,,,

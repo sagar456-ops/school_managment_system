@@ -1,0 +1,6 @@
+reg_no,symbol_no,name,faculty,semester,year,subject_1,score_1,subject_2,score_2,subject_3,score_3,subject_4,score_4,subject_5,score_5,subject_6,score_6,subject_7,score_7,final_score,status
+ACME9000,351665,Sagar Rimal,Computer,1,2018,Electronic device and circuit,A,Data structure and algorithm,A,C++,A,Applied mechanics,A,ISD,A,Algorithm Analysis,A,-,-,3.76,Passed
+ACME9112,351665,Ram Nepal,Civil,3,2018,Building science,B,Structure-1,B,Truss,B,Math-2,B,Dynamics,B,Numerical methods,B,English,A,3.2,Passed
+ACME9552,351665,Hari Adhikari,Computer,5,2017,Math-3,B,Java,B,Circuit theory,B,Computation Theory,B,Project,B,Probability,B,Sociology,A,3.4,Passed
+ACME9010,351665,John Lee,Architecture,7,2018,C-programming,C,Modern design,C,Survey,C,Math-2,C,Applied mechanics,F,Interrior Design,A,-,-,3.15,Failed
+ACME9110,351665,Patrik Parsad,Civil,1,2020,Math-1,A,English,A,Physics,A,Chemistry,A,Drawing-1,A,Building Materials,A,Computer Fundamentals,A,3.8,Passed

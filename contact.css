@@ -1,0 +1,13 @@
+body{
+     margin: 0;
+     padding: 0;
+    text-align: center;
+     background:url(istockphoto-1129113667-612x612.jpg);
+    background-size:cover;
+     background-position:centre;
+      font-family:sans-serif;
+}
+
+h1{
+        color: green;
+      }
