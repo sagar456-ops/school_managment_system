@@ -24,7 +24,7 @@ and symbol_no = '" . $_POST['symbol_no'] . "'
                   $result_set = mysqli_query($con, $sql) or die(mysqli_error($con));
 
                   while ($row = mysqli_fetch_array($result_set)) { ?>
-                        <h2 style="text-align;">Congratulations! You have  <?php echo $row['status'] ?>. </h2>
+                        <h2 style="text-align;">You have <?php echo $row['status'] ?>. </h2>
                        <h2 style=" text-align: center;margin-top:10px;">Your Grade Sheet Is Shown Below.</h2>
                         <div class="row" id="printableId" style="background-color: #DFDFDF; width:80%; height:1000px; border:3px solid #ccc; overflow:hidden">
                               <div class="upper">
@@ -94,7 +94,7 @@ and symbol_no = '" . $_POST['symbol_no'] . "'
       </html>
 </main>
 <style>
-      b {}
+
 
       table {
             margin-left: auto;
